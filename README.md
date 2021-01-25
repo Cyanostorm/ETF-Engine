@@ -5,4 +5,4 @@
 
 ### Investment Strategy:
 
-![Engine structure](https://github.com/Cyanostorm/ETF-Engine/blob/main/AIPEngine.png)
+![Engine structure](https://github.com/Cyanostorm/ETF-Engine/blob/main/Engine.png)
